@@ -78,3 +78,11 @@ Esto instalará automáticamente las librerías necesarias, como `pandas`, `scik
    jupyter lab
    ```
 3. Abre el notebook `1_regresion_logistica_fraude.ipynb` y sigue las instrucciones para completar las actividades.
+
+---
+
+### Nota sobre el uso de IA
+
+Este laboratorio se desarrolló con acompañamiento de un asistente de inteligencia artificial (Claude, de Anthropic), que, a petición del autor, escribió y ejecutó el código del notebook y propuso las decisiones de preprocesamiento y la interpretación de resultados. El autor dirigió el análisis, revisó y aprobó cada decisión y es responsable de las conclusiones.
+
+Eduardo Bustos
